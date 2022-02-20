@@ -24,26 +24,26 @@ Programming Languages used:
 # Step-by-step Game
 1. WELCOME MESSAGE
 
-    ![Welcome Message](../TICTACTOE/images/startmenupng.png)
+    ![Welcome Message](images/startmenupng.png)
 
 2. Pick Grid size - for a 2x2 grid, you just type *"2"*. The bigger the grid, the longer you play.
 
-![Enter grid size option 1](../TICTACTOE/images/2x2gridpng.png)
+![Enter grid size option 1](images/2x2gridpng.png)
 
-![Enter grid size option 2](../TICTACTOE/images/3x3gridpng.png)
+![Enter grid size option 2](images/3x3gridpng.png)
 
 3. Insert number to play X/O.
 
-![Number choice 2x2 grid](../TICTACTOE/images/numchoice2x2gridpng.png)
+![Number choice 2x2 grid](images/numchoice2x2gridpng.png)
 
-![Number choice 3x3 grid](../TICTACTOE/images/numchoice3x3gridpng.png)
+![Number choice 3x3 grid](images/numchoice3x3gridpng.png)
 
 
 4. Winner message displayed with nice ASCII decor!
 
-![WinnerX Message](../TICTACTOE/images/winnerXpng.png)
+![WinnerX Message](images/winnerXpng.png)
 
-![WinnerO Message](../TICTACTOE/images/winnerOpng.png)
+![WinnerO Message](images/winnerOpng.png)
 
 # Useful Websites
 
@@ -56,7 +56,7 @@ This site will help you understand the proper usage of header files, classes, an
 
 The purple icon is Microsoft Visual Studio:
 
-![Microsoft Visual studio ](../TICTACTOE/images/mvspng.png)
+![Microsoft Visual studio ](/images/mvspng.png)
 
 # Future Work
 
