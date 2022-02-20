@@ -8,7 +8,7 @@ Also, don't make my mistake by trying to shoot for the moon when it comes to lea
 
 If you know how to play TIC TAC TOE, you're on a good road towards understanding the rules of the game. However, playing it on a digital terminal from some randome programmer may have you wondering *"How do you start playing this version of the game?!"*
 
-Whatch the demo video below to see how to play!
+Watch the demo video below to see how to play!
 
 [Software Demo Video](https://www.youtube.com/watch?v=4yTTwt2La68)
 
@@ -24,26 +24,26 @@ Programming Languages used:
 # Step-by-step Game
 1. WELCOME MESSAGE
 
-    ![Welcome Message](../TICTACTOE/images/startmenupng.png)
+    ![Welcome Message](../TICTACTOE/TICTACTOE/images/startmenupng.png)
 
 2. Pick Grid size - for a 2x2 grid, you just type *"2"*. The bigger the grid, the longer you play.
 
-![Enter grid size option 1](../TICTACTOE/images/2x2gridpng.png)
+![Enter grid size option 1](../TICTACTOE/TICTACTOE/images/2x2gridpng.png)
 
-![Enter grid size option 2](../TICTACTOE/images/3x3gridpng.png)
+![Enter grid size option 2](../TICTACTOE/TICTACTOE/images/3x3gridpng.png)
 
 3. Insert number to play X/O.
 
-![Number choice 2x2 grid](../TICTACTOE/images/numchoice2x2gridpng.png)
+![Number choice 2x2 grid](../TICTACTOE/TICTACTOE/images/numchoice2x2gridpng.png)
 
-![Number choice 3x3 grid](../TICTACTOE/images/numchoice3x3gridpng.png)
+![Number choice 3x3 grid](../TICTACTOE/TICTACTOE/images/numchoice3x3gridpng.png)
 
 
 4. Winner message displayed with nice ASCII decor!
 
-![WinnerX Message](../TICTACTOE/images/winnerXpng.png)
+![WinnerX Message](../TICTACTOE/TICTACTOE/images/winnerXpng.png)
 
-![WinnerO Message](../TICTACTOE/images/winnerOpng.png)
+![WinnerO Message](../TICTACTOE/TICTACTOE/images/winnerOpng.png)
 
 # Useful Websites
 
@@ -56,7 +56,7 @@ This site will help you understand the proper usage of header files, classes, an
 
 The purple icon is Microsoft Visual Studio:
 
-![Microsoft Visual studio ](../TICTACTOE/images/mvspng.png)
+![Microsoft Visual studio ](../TICTACTOE/TICTACTOE/images/mvspng.png)
 
 # Future Work
 
